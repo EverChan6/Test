@@ -200,7 +200,8 @@ jQuery(document).ready(function($){
   }
   templateUXCounter();
 
-  $('#test1').click(show)
+  // $('#test1').click(show)
+  $(document).on('click', '#test1', show)
 
 
 });
