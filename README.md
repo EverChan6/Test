@@ -1,2 +1,5 @@
 ### what for
-a test page for testing a bug in bootstrap v4, maybe.
+To record a bug.
+
+### description
+https://segmentfault.com/a/1190000017845802
